@@ -18,7 +18,9 @@ This is the official implementation of the paper "GPD: Guided Polynomial Diffusi
 
 <!-- <video src="results/teaser_compressed.mp4"> # "https://ensemble-of-costs-diffusion.github.io/videos/teaser_compressed.mp4"> -->
 
-For more details contact the authors.
+For more details about the paper and code contact the authors.
+
+Code Publishing Soon ...
 
 
 
